@@ -8,9 +8,6 @@
         <UIcon name="i-ri-github-fill" class="w-6 h-6 mr-2" />
         <span>Source code</span>
       </NuxtLink>
-      <NuxtLink target="_blank" to="https://status.steamcard.us.kg/s/ncc/" class="text-sm text-gray-400 hover:text-gray-500 cursor-pointer">
-        SteamCard Status
-      </NuxtLink>
     </div>
   </div>
 </template>
